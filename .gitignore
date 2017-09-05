@@ -2,3 +2,5 @@
 .DS_Store
 Manhattan_NewYork_US.osm
 .ipynb_checkpoints/udacity-dand-p3-wrangle-openstreetmap-data-checkpoint.ipynb
+*.pyc
+*.csv
